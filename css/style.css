@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.ghost {
+    color: #9B9B9B;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.1px;
+}
+
+.red {
+    color: #FF5480;
+}
+
+.background {
+    background: url(../assets/img/designbetter_website_book_assets_illustrations_principlesofproductdesign_cover-1920x1081.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 860px;
+    height: 484px;
+    flex-shrink: 0;
+}
+
+@media (max-width: 1340px) {
+    .background {
+        
+    }
+}
