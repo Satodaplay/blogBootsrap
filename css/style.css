@@ -13,6 +13,22 @@
     color: #FF5480;
 }
 
+.grisaceo {
+    background: #F9F9FB;
+}
+
+.blanco {
+    color: #FFF;
+}
+
+.blanco-b {
+    background-color: #FFF;
+}
+
+.negro {
+    color: #000;
+}
+
 .backgroundOne {
     background: url(../assets/img/Pic.png);
     background-repeat: no-repeat;
@@ -33,17 +49,50 @@
 }
 
 .backgroundThree {
-    background: url(../assets/img/carta.png);
+    background: url(../assets/img/Rectangle\ 3\ Copy\ 37.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    border-radius: 7px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.08);
     width: 276px;
     height: 169px;
 }
 
+.backgroundThree-2 {
+    background: url(../assets/img/Rectangle\ 3\ Copy\ 37.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.08);
+    width: 1168px;
+    height: 358px;
+}
+
+.backgroundFour {
+    background: url(../assets/img/chap4_ent_sprint-1920x1080.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 7px;
+    width: 638px;
+    height: 359px;
+}
+
+.backgroundFive {
+    background: url(../assets/img/Card\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 7px;
+    width: 638px;
+    height: 359px;
+}
+
 .standar {
-    color: #FFF;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-style: normal;
@@ -52,7 +101,6 @@
 }
 
 .semistandar {
-    color: #FFF;
     font-family: 'Open Sans', sans-serif;
     font-size: 28px;
     font-style: normal;
@@ -78,4 +126,8 @@
     font-weight: 600;
     line-height: 58px; 
     letter-spacing: -0.15px;
+}
+
+.mt-12 {
+    margin-top: -12px;
 }
