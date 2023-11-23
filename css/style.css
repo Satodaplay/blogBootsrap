@@ -143,3 +143,25 @@
 .mt-12 {
     margin-top: -12px;
 }
+
+.trampa {
+    position: relative;
+    top: 15px;
+    left: -41px;
+    padding-inline: 84px;
+    padding-top: 31px;
+    background-color: #FF5480;
+    color: #FFF;
+}
+
+.trampa2 {
+    position: relative;
+    top: 0px;
+    left: 30px;
+}
+
+.texto {
+    margin-left: 70px;
+    margin-right: 207px;
+    margin-top: 28px;
+}
