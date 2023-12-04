@@ -13,6 +13,11 @@
     color: #FF5480;
 }
 
+.red-b {
+    background-color: #FF5480;
+}
+
+
 .grisaceo {
     background: #F9F9FB;
 }
@@ -164,4 +169,64 @@
     margin-left: 70px;
     margin-right: 207px;
     margin-top: 28px;
+}
+
+.especial {
+    color: #9283E0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 58px; /* 241.667% */
+    letter-spacing: -0.15px;
+}
+
+.icono {
+    position: relative;
+    top: 0px;
+    left: 500px;
+    border-radius: 40px;
+}
+
+.icono2 {
+    border-radius: 40px;
+}
+
+.boton {
+    position: relative;
+    top: -55px;
+    left: 765px;
+    padding: 10px;
+}
+
+.boton2 {
+    position: relative;
+    top: 0px;
+    left: 215px;
+}
+
+.marginEspecial {
+    margin-left: 42px;
+}
+
+.tamano {
+    position: relative;
+    width: 1000px;
+    left: 120px;
+}
+
+.coment {
+    margin-left: 125px;
+}
+
+.coment2 {
+    margin-left: 125px;
+}
+
+.imput {
+    width: 50%;
+    border-radius: 10px;
+    border: 2px solid #E6E6E6;
+    background: #FFF;
 }
